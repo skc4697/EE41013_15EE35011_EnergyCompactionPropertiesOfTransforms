@@ -1,1 +1,1 @@
-# EE41013_15EE35011_EnergyCompactionPropertiesOfTransforms.ipynb
+# EE41013_15EE35011_EnergyCompactionPropertiesOfTransforms
